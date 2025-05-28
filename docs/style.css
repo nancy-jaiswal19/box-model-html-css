@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+.white{
+    width: 700px;
+    height: 700px;
+    border: 50px solid black;
+    margin: 50px auto;
+}
+.brown{
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    background-color: rgb(99, 26, 26);
+    padding: 10px;
+
+}
+.one{
+    width: 90%;
+    height: 150px;
+    background-color:rgb(226, 171, 68);
+    margin: 0 auto;
+    
+    border-radius: 20px;
+
+}
+.two{
+    width: 95%;
+    height: 170px;
+    background-color: rgb(130, 13, 13);
+    margin: 5px auto;
+    border-radius: 10px;
+
+}
+.three{
+    width: 93%;
+    height: 150px;
+    background-color: red;
+    margin: 0 auto;
+    border-radius: 30px 10px 30px 10px;
+}
